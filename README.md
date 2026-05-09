@@ -19,12 +19,12 @@
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SoyJuanp8&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJuanp8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoyJuanp8&theme=github_dark" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoyJuanp8&theme=github_dark" alt="Top Languages" height="170" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=SoyJuanp8&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoyJuanp8&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
