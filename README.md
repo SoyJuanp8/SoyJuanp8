@@ -19,12 +19,12 @@
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SoyJuanp8&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoyJuanp8&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJuanp8&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoyJuanp8&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SoyJuanp8&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ### Let's connect
 
 <p>
-  <a href="mailto:juanpablo.forero@symmetry.club">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/juan-forero-0602ab1ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SoyJuanp8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
