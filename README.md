@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:7c3aed,100:db2777&height=230&section=header&text=Juan%20Pablo%20Forero&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Python%20Full%20Stack&descSize=22&descAlignY=60&descColor=f5d0fe&animation=fadeIn" width="100%" alt="Juan Pablo Forero" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:7c3aed,100:db2777&height=230&section=header&text=Juan%20Pablo%20Forero&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Python%20Full%20Stack&descSize=22&descAlignY=60&descColor=f5d0fe" width="100%" alt="Juan Pablo Forero" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=640&lines=Flutter+Developer+%F0%9F%93%B1;Python+Full+Stack+Developer+%F0%9F%90%8D;Clean+Architecture+%E2%80%A2+BLoC+%E2%80%A2+Django+REST;Shipping+mobile+products+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" /></a>
 
