@@ -81,19 +81,19 @@ final juanPablo = Developer(
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SoyJuanp8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SoyJuanp8&show_icons=true&hide_border=true&title_color=0175C2&icon_color=3776AB&rank_icon=github" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJuanp8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&exclude_repo=park,demo_inventario,implementacion,SoyJuanUNI" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyJuanp8&layout=compact&hide_border=true&title_color=0175C2&langs_count=6&exclude_repo=park,demo_inventario,implementacion,SoyJuanUNI" height="165" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoyJuanp8&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoyJuanp8&theme=github" alt="Profile details" />
 </picture>
 
 <br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoyJuanp8&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoyJuanp8&theme=github" height="190" alt="GitHub stats" />
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SoyJuanp8&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=SoyJuanp8&hide_border=true&ring=0175C2&fire=3776AB&currStreakLabel=0175C2" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=SoyJuanp8&hide_border=true&ring=0175C2&fire=3776AB&currStreakLabel=0175C2" height="190" alt="GitHub streak" />
 </picture>
 
 </div>
